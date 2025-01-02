@@ -13,7 +13,7 @@ const Sidebar = () => {
     <aside className="sidebar">
       <div className="flex size-full flex-col gap-4">
         <Link href={"/"} className="sidebar-logo">
-          <Image src={"/visionera.png"} alt="Logo" width={180} height={28} />
+          <Image src={"/imafyyy.png"} alt="Logo" width={180} height={28} />
         </Link>
 
         <nav className="sidebar-nav">
