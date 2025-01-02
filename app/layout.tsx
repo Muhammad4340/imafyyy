@@ -11,8 +11,8 @@ const IBMPlex = IBM_Plex_Sans({
 })
 
 export const metadata: Metadata = {
-  title: "Visionera",
-  description: "AI-powered image genrator",
+  title: "Imafy",
+  description: "AI-powered image generator",
 }
 
 export default function RootLayout({
