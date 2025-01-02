@@ -49,7 +49,7 @@ const MediaUploader = ({
   }
   return (
     <CldUploadWidget
-      uploadPreset="pb_visionera"
+      uploadPreset="jsm_imafy"
       options={{ multiple: false, resourceType: "image" }}
       onSuccess={onUploadSuccessHandler}
       onError={onUploadErrorHandler}
