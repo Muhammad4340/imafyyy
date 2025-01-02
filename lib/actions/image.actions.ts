@@ -117,7 +117,7 @@ export const getAllImages = async ({
       secure: true,
     })
 
-    let expression = "folder=visionera"
+    let expression = "folder=imafy"
 
     if (searchQuery) expression += ` AND ${searchQuery}`
 
